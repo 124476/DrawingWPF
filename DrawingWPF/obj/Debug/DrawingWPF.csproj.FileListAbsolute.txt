@@ -1,0 +1,15 @@
+D:\repos\DrawingWPF\DrawingWPF\bin\Debug\DrawingWPF.exe.config
+D:\repos\DrawingWPF\DrawingWPF\bin\Debug\DrawingWPF.exe
+D:\repos\DrawingWPF\DrawingWPF\bin\Debug\DrawingWPF.pdb
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.csproj.AssemblyReference.cache
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\MainWindow.g.cs
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\App.g.cs
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF_MarkupCompile.cache
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF_MarkupCompile.lref
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\MainWindow.baml
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.g.resources
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.Properties.Resources.resources
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.csproj.GenerateResource.cache
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.csproj.CoreCompileInputs.cache
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.exe
+D:\repos\DrawingWPF\DrawingWPF\obj\Debug\DrawingWPF.pdb

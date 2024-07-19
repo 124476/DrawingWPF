@@ -1,0 +1,37 @@
+﻿<Window x:Class="DrawingWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingWPF"
+        mc:Ignorable="d"
+        Title="Рисование" Height="450" Width="800" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Canvas x:Name="DrawingTarget" Background="LightGray"
+                MouseLeftButtonDown="DrawingTarget_MouseLeftButtonDown"
+                MouseLeftButtonUp="DrawingTarget_MouseLeftButtonUp"
+                MouseMove="DrawingTarget_MouseMove"></Canvas>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Width="200" Margin="100,0">
+                <TextBlock Text="Размер" FontSize="17"></TextBlock>
+                <TextBox x:Name="TextSize" FontSize="17" TextChanged="TextSize_TextChanged"></TextBox>
+            </StackPanel>
+            <StackPanel Width="200" Margin="100,0">
+                <TextBlock Text="Цвет" FontSize="17"></TextBlock>
+                <ComboBox Name="ComboColors" FontSize="17"
+                  HorizontalContentAlignment="Stretch"
+                  VerticalContentAlignment="Stretch">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Background="{Binding Brush}" Height="20"></Grid>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\DrawingWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|d:\\repos\\drawingwpf\\drawingwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|solutionrelative:drawingwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|d:\\repos\\drawingwpf\\drawingwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|solutionrelative:drawingwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|d:\\repos\\drawingwpf\\drawingwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|solutionrelative:drawingwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|d:\\repos\\drawingwpf\\drawingwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BF5A16-DD21-4464-B453-1AD43B715494}|DrawingWPF\\DrawingWPF.csproj|solutionrelative:drawingwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 405,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\repos\\DrawingWPF\\DrawingWPF\\App.xaml",
+              "RelativeDocumentMoniker": "DrawingWPF\\App.xaml",
+              "ToolTip": "D:\\repos\\DrawingWPF\\DrawingWPF\\App.xaml",
+              "RelativeToolTip": "DrawingWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T09:35:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\repos\\DrawingWPF\\DrawingWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DrawingWPF\\App.xaml.cs",
+              "ToolTip": "D:\\repos\\DrawingWPF\\DrawingWPF\\App.xaml.cs",
+              "RelativeToolTip": "DrawingWPF\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:35:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\repos\\DrawingWPF\\DrawingWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DrawingWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\repos\\DrawingWPF\\DrawingWPF\\MainWindow.xaml",
+              "RelativeToolTip": "DrawingWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T09:35:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\repos\\DrawingWPF\\DrawingWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DrawingWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\repos\\DrawingWPF\\DrawingWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DrawingWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:35:10.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
